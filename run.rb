@@ -1,3 +1,7 @@
+require 'pry'
+require_relative 'model1.rb'
+require_relative "model2.rb"
+require_relative "model3.rb"
 # require all of you files up here
 require 'pry'
 require_relative 'model1.rb'
